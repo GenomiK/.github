@@ -8,7 +8,7 @@
 
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
+A[Genera funcion lambda] --> B(Sube cambios a github)
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
