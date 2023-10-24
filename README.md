@@ -8,7 +8,6 @@
 
 ```mermaid
 graph LR
-A[Genera funcion lambda] --> B(Sube cambios a github)
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+A[Genera funcion lambda] --> B(Prueba en Postman)
+B --> C(Sube cambios a github)
+C --> D{Rhombus}
