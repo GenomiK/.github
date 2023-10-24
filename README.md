@@ -10,4 +10,5 @@
 graph LR
 A[Genera funcion lambda] --> B(Prueba en Postman)
 B --> C(Sube cambios a github)
-C --> D{Rhombus}
+C --> D(Despliega en AWS)
+D --> E(Implementa el Endpoint en el Front)
